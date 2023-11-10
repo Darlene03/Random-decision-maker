@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Decision maker\Decision maker\bin\Debug\Decision maker.exe.config
+C:\Users\user\source\repos\Decision maker\Decision maker\bin\Debug\Decision maker.exe
+C:\Users\user\source\repos\Decision maker\Decision maker\bin\Debug\Decision maker.pdb
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision maker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision_maker.Form1.resources
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision_maker.Properties.Resources.resources
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision maker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision maker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision maker.exe
+C:\Users\user\source\repos\Decision maker\Decision maker\obj\Debug\Decision maker.pdb
